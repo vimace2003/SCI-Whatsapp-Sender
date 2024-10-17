@@ -40,7 +40,4 @@ Este script Bash gera um arquivo HTML e um arquivo CSV para enviar mensagens de 
 
 ## Autor
 
-- PP5KJ - Vinicius Macedo
-EOL
-
-echo "Arquivo README.md gerado: $readme_file"
+- PP5KJ - Vinicius Macedo - pp5kj@qsl.net
